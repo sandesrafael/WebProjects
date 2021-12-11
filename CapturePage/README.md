@@ -13,6 +13,6 @@ Project is created with:
 
 	
 ## Setup
-To view this project, click on the link below:
+To view this project, click on the link: 
 
 
