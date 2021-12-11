@@ -13,6 +13,5 @@ Project is created with:
 
 	
 ## Setup
-To view this project, click on the link: 
-
+To view this project, click on the link: https://sandesrafael.github.io/WebProjects/CapturePage/
 
