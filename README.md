@@ -25,13 +25,13 @@
   ✅ Contribuições por
   Alexandre Bredariol e
   Luciano Pimentel 
-</h2><br><br>
+</h2><br><br><br>
 
 
 
-<h2>Ambientes</h2><br>
 
-## Instalação no Windows
+
+## Instalação no ambiente Windows
 
 ```bash
   python -m venv .venv
@@ -40,7 +40,7 @@
   pip install -r requirements.txt
 ```
 
-## Instalação no Linux
+## Instalação no ambiente Linux
 
 ```bash
   sudo apt install unrar
